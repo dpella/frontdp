@@ -15,8 +15,7 @@ We are a team of students from the Department of Computer Science and Engineerin
 ## Shortcuts to WebDP
 ## Usage
 Before you start, make sure you have the following software installed:
-- Node.js
-- npm
+- **npm**
 
 How to start the React application:
 ```bash
