@@ -1,0 +1,61 @@
+/*
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/.
+ */
+
+.content-container {
+  margin-top: 150px;
+  color: white;
+  font-family: 'Gilroy-Regular'
+}
+.MuiStepLabel-label {
+color: white !important;
+font-family: 'Gilroy-Regular'
+}
+.MuiStepLabel-label.Mui-active {
+  color: #FFFFFF !important; 
+}
+
+.MuiStepIcon-root {
+  color: #999999 !important;
+  background-color: transparent !important;
+  border-radius: 50%;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  height: 30px !important;
+  width: 30px !important;
+}
+.MuiStepIcon-root:hover {
+  color: #5B5B5B !important;
+  cursor: pointer;
+}
+
+.MuiStepIcon-completed {
+color: white !important;
+background-color: #999999 !important;
+}
+.MuiStepConnector-line {
+  height: 3px;
+  background-color: #999999;
+}
+.navigationButton{
+  margin: 10px; 
+  border-radius: 20px!important;
+  padding: 10px 20px; 
+  background-color: #6AA84F!important;
+  color: white; 
+  width: 190px;
+  height: 40px;
+}
+.navigationButton:hover{
+  background-color: #92C56E!important;
+  cursor: pointer;
+}
+.buttonContainer {
+  margin: 100px auto;
+  display: flex;
+  justify-content: center;
+  gap: 100px; 
+}

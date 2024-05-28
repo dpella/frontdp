@@ -1,0 +1,34 @@
+/*
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/.
+ */
+
+@import url(./fonts.css);
+
+
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+  .logo-wrapper {
+    flex-shrink: 0; /* Prevent the logo wrapper from shrinking */
+  }
+
+.logo {
+  max-width: 180px;
+  height: auto;
+}
+
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.buttons {
+  display: flex;
+  gap: 90px; /* Adds gap between buttons */
+  margin-right: 100px;
+}

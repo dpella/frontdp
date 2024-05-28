@@ -1,0 +1,51 @@
+/*
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/.
+ */
+
+.maintext{
+    font-family: GilroyMed;
+    color:white;
+    font-size: 30px;
+    padding: 50px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+
+}
+
+.inputNameField{
+    font-size: 28px;
+    color: white;
+    background-color: rgba(0,0,0,0);
+    outline: none;
+    border-bottom: 1px solid #FFFFFF;
+
+}
+
+.propertiesText{
+    font-size: 30px ;
+    padding-bottom: 50px;
+
+}
+
+.dropDownMenu{
+    padding-top: 50px;
+
+
+}
+
+.NP{
+    font-size: 32px;
+}
+
+.radioButtons{
+    flex-direction: row;
+    display: flex;
+    font-size: 1000px;
+}

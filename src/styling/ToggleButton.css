@@ -1,0 +1,32 @@
+/*
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/.
+ */
+
+.customMuiButton {
+    color: white!important;
+    border: 2px solid white !important; 
+    border-radius: 20px!important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;    
+    width: 120px;
+  }
+  
+  .customMuiButton.initial {
+    background-color: #2B2B2B;
+  }
+  
+  .customMuiButton.initial:hover {
+    background-color: #5B5B5B;
+  }
+  
+  .customMuiButton.clicked {
+    background-color: #5B5B5B;
+  }
+  
+  .customMuiButton.clicked:hover {
+    background-color: #5B5B5B;
+  }

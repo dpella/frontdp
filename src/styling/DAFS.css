@@ -1,0 +1,39 @@
+/*
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/.
+ */
+
+@import url(./fonts.css);
+
+.avalaible_datasets{
+    font-family: GilroyMed;
+    color:white;
+    font-size: 50px;
+    padding: 100px 50px;
+}
+
+.table{
+    color: white;
+    margin-left: 50px;
+
+}
+
+th{
+    padding: 25px 50px;
+
+}
+
+td{
+    padding: 25px 50px;
+
+}
+
+tbody tr{
+    border-bottom: 1px solid #FFFFFF;
+    border-top: 1px solid #FFFFFF;
+}
+
+tbody tr:hover{
+    background-color:rgba(0, 0, 0, 0.08);
+}

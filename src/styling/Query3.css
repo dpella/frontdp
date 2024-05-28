@@ -1,0 +1,53 @@
+/*
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/.
+ */
+
+.epsilonSlider{
+    background-color: #2B2B2B; /*#17213B*/
+}
+
+.dialogEpsilonSlider{
+  background-color: white; /*#17213B*/
+}
+
+.MuiSlider-thumb {
+    color: white;
+  }
+  
+.MuiSlider-track {
+    color: white;
+  }
+  
+.MuiSlider-rail {
+    color: white;
+  }
+
+.box{
+    display: flex; 
+    flex: 1;
+    /*border: 1px solid red; */
+    padding: 5px;
+    justify-content: space-between;
+}
+
+.exploreBudgetButton{
+    margin: 10px; 
+    border-radius: 20px!important;
+    padding: 10px 20px; 
+    background-color: #999999!important;
+    color: white; 
+    width: 150px;
+    height: 40px;
+  }
+
+.setbudgetText{
+    color: white;
+    font-family: 'Gilroy-Regular';
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100px;    
+}

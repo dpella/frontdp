@@ -20,7 +20,6 @@ Before you start, make sure you have the following software installed:
 
 How to start the React application:
 ```bash
-$ cd web-app
 $ npm start
 ```
 

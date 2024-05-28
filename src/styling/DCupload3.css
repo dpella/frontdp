@@ -1,0 +1,75 @@
+/*
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/.
+ */
+
+.maintext{
+    font-family: GilroyMed;
+    color:white;
+    font-size: 30px;
+    padding: 50px;
+    border-bottom: #FFFFFF;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+    flex-direction: row;
+}
+
+.form{
+    align-items: center;
+}
+
+.inputField{
+    border-radius:2px;
+    background:#A9A9A9 ;
+    color: white;
+    font-family: GilroyMed;
+
+}
+
+.inputFieldAnalyst{
+    background:#A9A9A9 ;
+    color: white;
+    font-family: GilroyMed;
+    height: 32px;
+
+}
+
+.list{
+
+}
+
+.item{
+    margin-top: 50px;
+    font-family: GilroyMed;
+    font-size: 30px;
+    margin-right: 2px;
+    border-bottom: 1px;
+    font-size: 16px;
+
+
+}
+
+.deletebutton{
+    border-radius: 50%;
+    background-color: #E06666;
+    color: white;
+    padding: 5px 10px;
+}
+
+.navigation-button{
+    margin: 10px;
+    border-radius: 10px!important;
+    padding: 10px 20px;
+    background-color: #6AA84F!important;
+    color: white;
+    width: 190px;
+    height: 40px;
+
+
+}

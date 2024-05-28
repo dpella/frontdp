@@ -1,0 +1,55 @@
+/*
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/.
+ */
+
+.content-container {
+    margin-top: 100px;
+    color: white;
+    font-family: 'Gilroy-Regular';
+  }
+  
+  .maintext {
+    font-size: 30px;
+    padding: 50px;
+  }
+  
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+  }
+  
+  .step-container {
+    padding-bottom: 50px;
+  }
+  
+  .inputNameField {
+    font-size: 28px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0);
+    outline: none;
+    border-bottom: 1px solid #ffffff;
+  }
+  
+  .propertiesText {
+    font-size: 30px;
+  }
+  
+  .navigation-button {
+    margin: 10px;
+    border-radius: 20px!important;
+    padding: 10px 20px;
+    background-color: #6AA84F!important;
+    color: white;
+    width: 190px;
+    height: 40px;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  

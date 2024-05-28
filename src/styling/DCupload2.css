@@ -1,0 +1,62 @@
+/*
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/.
+ */
+
+.variableSelectorHeader{
+    color: white;
+    font-family: 'Gilroy-Regular';
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:80px;    
+}
+
+.header{
+    display: flex;
+    margin-left: auto; 
+    margin-right: auto;
+    padding: 2px;
+    box-sizing: border-box;
+    width: 80%;
+}
+
+.box{
+    display: flex; 
+    flex: 1;
+    justify-content: start;
+    align-items: center;
+}
+
+.myDropdown {
+    background-color: #2B2B2B;
+  }
+
+.inputBox {
+    background-color: #2B2B2B;
+    height: 40px;
+    width: 120px;
+    border: 1px solid white;
+    border-radius: 2px;
+    text-align: center;
+}
+
+  /*Doesnt work yet... I want to change the color of checkbox*/
+  input[type="checkbox"] {
+    background-color: #2B2B2B;
+  }
+  
+  input[type="checkbox"]:checked {
+    background-color: #999999; /* Change the background color */
+  }
+
+.remove-arrow::-webkit-inner-spin-button,
+.remove-arrow::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.remove-arrow {
+    -moz-appearance: textfield;
+}
