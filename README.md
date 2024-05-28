@@ -1,5 +1,8 @@
-# frontdp
-A front-end for the Differential Privacy API WebDP
+# FrontDP
+A front-end for the Differential Privacy API WebDP.
+
+![FrontDP](https://github.com/dpella/frontdp/blob/main/logos/FrontDP_Logo_Horisontal_Black.png)
+
 ## Goal
 The goal of this project is to provide a user-friendly front-end interface for interacting with the WebDP API. This interface facilitates differential privacy tasks and analysis, allowing data curators to share datasets and assign analysts, and enabling data analysts to perform analytical queries while maintaining the privacy of individuals in the dataset.
 ## Who are we?
@@ -20,3 +23,9 @@ How to start the React application:
 $ cd web-app
 $ npm start
 ```
+
+Reach out if you have any questions!
+
+/ The FrontDP Team
+
+![FrontDP](https://github.com/dpella/frontdp/blob/main/logos/FrontDP_Logo_Square_Black.png)
