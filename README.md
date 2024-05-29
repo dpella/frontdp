@@ -48,6 +48,13 @@ How to start the React application:
 ```bash
 $ npm start
 ```
+### Configuring the WebDP Server IP and Port
+By default, the development environment uses a proxy configuration to forward API requests to the WebDP server running at http://localhost:8080. This is specified in the package.json file:
+```bash
+"proxy": "http://localhost:8080/"
+```
+If you need to specify a different IP address or port for the WebDP server, you can do so by updating this proxy setting.
+
 
 Reach out if you have any questions!
 
